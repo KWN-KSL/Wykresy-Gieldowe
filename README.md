@@ -18,7 +18,7 @@ Program generujący wykresy świecowe (tzw. świece japońskie) na podstawie dan
 * wysokością 50 znaków
 * 1 świeca = 1 dzień
 Przykladowy format danych:
-## 🗃️ Format danych wejściowych (.csv)
-- Date,Open,High,Low,Close,Volume
-- 2023-11-27,43.65,44.545,43.65,44.08,33339937
- - 2023-11-28,43.69,44.08,43.66,44.02,1967329
+## 🗃️ Format danych wejściowych (.csv)  
+Date,Open,High,Low,Close,Volume  
+2023-11-27,43.65,44.545,43.65,44.08,33339937  
+2023-11-28,43.69,44.08,43.66,44.02,1967329  
