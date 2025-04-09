@@ -1,8 +1,9 @@
 # 📊 Wykresy Giełdowe — Świece Japońskie 📊
 Program generujący wykresy świecowe (tzw. świece japońskie) na podstawie danych giełdowych z plików .csv. Projekt wykonany w języku C++ w ramach zajęć akademickich na 1. semestrze studiów.
-## 🖼️ Zrzuty ekranu
 ## 🧭 Menu programu
+![image](https://github.com/user-attachments/assets/27a9cf31-62a5-411f-94e4-173bfdd3cbd4)
 ## 📈 Przykładowy wykres świecowy
+![image](https://github.com/user-attachments/assets/d8fedec0-c81d-47b8-93d1-efc2550bd9b2)
 ## 📌 Zasady działania programu
 * Program odczytuje dane giełdowe (data, open, high, low, close) z pliku .csv.
 * Na ich podstawie tworzy wykres świecowy zapisany do pliku .txt, z wykorzystaniem grafiki tekstowej.
