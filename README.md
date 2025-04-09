@@ -10,7 +10,7 @@ Program generujący wykresy świecowe (tzw. świece japońskie) na podstawie dan
 ## Ciało białe (Open < Close) → O
 ## Ciało czarne (Open > Close) → #
 ## Cienie świecy (góra/dół) → |
-##⚙️ Funkcje programu
+## ⚙️ Funkcje programu
 ✅ Menu tekstowe z opcją zakończenia (q) i generacji wykresu (g).
 ✅ Obsługa pliku intc_us_data.csv z danymi akcji firmy Intel.
 ✅ Domyślny wykres z:
@@ -18,7 +18,7 @@ Program generujący wykresy świecowe (tzw. świece japońskie) na podstawie dan
 * wysokością 50 znaków
 * 1 świeca = 1 dzień
 Przykladowy format danych:
-🗃️ Format danych wejściowych (.csv)
+## 🗃️ Format danych wejściowych (.csv)
 Date,Open,High,Low,Close,Volume
 2023-11-27,43.65,44.545,43.65,44.08,33339937
 2023-11-28,43.69,44.08,43.66,44.02,1967329
